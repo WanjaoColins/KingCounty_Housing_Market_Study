@@ -8,13 +8,14 @@ This repository contains raw code and documentation for a regression modeling pr
 
 ## Project Structure
 
-├── Data                                      <- The dataset used for modeling (`King_County_House_Sales.csv`).
-├── README.md                                 <- The top-level README for reviewers of this project
-├── students.ipynb                            <- Narrative documentation of analysis in Jupyter notebook
-├── Presentation.pdf                          <- PowerPoint slides summarizing key findings and recommendations.
-├── CONTRIBUTING.md                           <- Contributing to Learn.co Curriculum
-├── LICENSE.md                                <- Learn.co Educational Content License
-└── images                                    <- Images used for this project
+- **Data:** The dataset used for modeling (`King_County_House_Sales.csv`).
+- **README.md:** The top-level README for reviewers of this project.
+- **students.ipynb:** Narrative documentation of analysis in Jupyter notebook.
+- **Presentation.pdf:** PowerPoint slides summarizing key findings and recommendations.
+- **CONTRIBUTING.md:** Contributing to Learn.co Curriculum.
+- **LICENSE.md:** Learn.co Educational Content License.
+- **images:** Images used for this project.
+
 
 
 ## Key Findings
