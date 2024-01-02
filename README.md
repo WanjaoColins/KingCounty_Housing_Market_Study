@@ -16,8 +16,6 @@ This repository contains raw code and documentation for a regression modeling pr
 - **LICENSE.md:** Learn.co Educational Content License.
 - **images:** Images used for this project.
 
-
-
 ## Key Findings
 
 - Correlations between renovations and estimated property values.
@@ -35,7 +33,6 @@ This repository contains raw code and documentation for a regression modeling pr
 7. Stay informed about market trends.
 8. Regularly review and adjust your strategy.
 
-
 ## Dependencies
 
 - Python 3.x
@@ -52,4 +49,4 @@ This project was developed by Group 11:
 - Benard Kinyua 
 - Janet Atunga
 
-Feel free to explore the code, provide feedback, or contribute to further enrichment. Happy modeling!
+Feel free to explore the code, provide feedback, or contribute for further enrichment. Happy modeling!
